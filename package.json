@@ -1,6 +1,6 @@
 {
   "name": "mcadmin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minecraft Admin Panel CLI",
   "main": "index.js",
   "scripts": {

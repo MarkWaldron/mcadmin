@@ -29,7 +29,13 @@ program
   .command('upgrade [version]')
   .action((version) => {
     if(!version) version = 'latest'
-  })
+  });
+
+program
+  .command('start')
+  .action(() => {
+
+  });
 
 
 program.parse(process.argv);

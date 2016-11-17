@@ -1,0 +1,22 @@
+{
+  "name": "mcadmin",
+  "version": "1.0.0",
+  "description": "Minecraft Admin Panel CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkWaldron/mcadmin.git"
+  },
+  "author": "Mark Waldron <markewaldron@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarkWaldron/mcadmin/issues"
+  },
+  "homepage": "https://github.com/MarkWaldron/mcadmin#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}

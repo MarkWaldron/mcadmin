@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/MarkWaldron/mcadmin.git"
   },
+  "bin" : {
+    "mcadmin": "./index.js"
+  },
   "author": "Mark Waldron <markewaldron@gmail.com>",
   "license": "MIT",
   "bugs": {
